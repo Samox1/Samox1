@@ -217,11 +217,11 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
   
 ![GitHub TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=samox1&show_icons=true&locale=en&layout=compact&theme=transparent&hide=HTML)
 
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Samox1&theme=transparent&hide_longest_streak=true)&nbsp;
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samox1&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub+Stats)
 
+</div>
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Samox1&theme=transparent&hide_longest_streak=true)&nbsp; -->
 <br>
 
 <div align="center">
