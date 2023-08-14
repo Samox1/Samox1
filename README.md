@@ -2,7 +2,7 @@
 **` Passionate about data and extracting information (also photonics engineer)`**
 <br>
 
-I am a Ph.D. student at the Physics Department of the Warsaw University of Technology. Since 2014, I have spent my days at university studying and researching in the area of photonics (optical fibers, liquid crystals, holography, lasers) and there were a lot of interesting topics and reports to do. During my studies, I became very interested in Data Science and Machine Learning, and I always tried to choose additional classes specifically in these areas. I've been learning about Data Science additionally using platforms such as DataCamp and Google Cloud Skills Boost, reading articles on Medium, Towards Data Science blogs, LinkedIn or doing my mini-projects after hours. <br>
+I am a Ph.D. student at the Physics Department of the Warsaw University of Technology. Since 2014, I have spent my days at university studying and researching in the area of photonics (optical fibers, liquid crystals, holography, lasers) and there were a lot of interesting topics and reports to do. During my studies, I became passionate with Data Science and Machine Learning. Thats why I always tried to choose additional classes, specifically in those areas. I've been learning about Data Science additionally using platforms such as DataCamp and Google Cloud Skills Boost, reading articles on Medium, Towards Data Science blogs, LinkedIn or doing my own mini-projects after hours. <br>
 I am looking for opportunities to grow in areas such as Business Intelligence, Data Science, Machine Learning, MLOps and Big Data.
 
 <details>
@@ -16,7 +16,7 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 
 <br>
 
-<sub> [![WUT Link](https://img.shields.io/badge/Winners_in_MedTech--Athon-gray?style=flat-square)](https://www.pw.edu.pl/Aktualnosci/Czy-doktoranci-PW-zrewolucjonizuja-medycyne)</sub> &#8592; Together with a team of Ph.D. students, we won the MedTech-Athon <sup>Warsaw University of Technology</sup>, receiving funding to develop a mobile air pollution monitoring device (May 2022). We built a demonstrator and showed it a year later at DemoDay, collaborating along the way with other researchers, a pulmonology doctor and organizations like the Chief Environmental Protection Inspector in Warsaw.
+<sub> [![WUT Link](https://img.shields.io/badge/Winners_in_MedTech--Athon-gray?style=flat-square)](https://www.pw.edu.pl/Aktualnosci/Czy-doktoranci-PW-zrewolucjonizuja-medycyne)</sub> &#8592; Together with a team of Ph.D. students, we won the MedTech-Athon <sup>Warsaw University of Technology</sup>, receiving funding to develop a mobile air pollution monitoring device (May 2022). We built a prototype and showcased it a year later at DemoDay, collaborating along the way with other researchers, a pulmonology doctor and organizations like the Chief Environmental Protection Inspector in Warsaw.
 
 </details>
 <br>
@@ -197,16 +197,16 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 
 #### 🙋‍♂️ <em>Helping with : </em>
 
-- [SpeakLeash](https://speakleash.org/) - <em>Language Processing Granary [pl. Spichlerz] - datasets for Polish<sup>[GitHub](https://github.com/speakleash/speakleash)</sup></em> - I'm helping as much as I can, writing code in Python to scrape forums and articles<sup>[GitHub](https://github.com/speakleash/speakleash-forum-tools)</sup>, making examples using the Speakleash package<sup>[GitHub](https://github.com/speakleash/speakleash-examples)</sup> and scraping the internet, adding another GBs of data to the project.
+- [SpeakLeash](https://speakleash.org/) - <em>Language Processing Granary [pl. Spichlerz] - datasets for Polish<sup>[GitHub](https://github.com/speakleash/speakleash)</sup></em> - I'm helping as much as I can, writing code in Python to scrape forums and articles<sup>[GitHub](https://github.com/speakleash/speakleash-forum-tools)</sup>, making examplary Python scripts using the Speakleash package<sup>[GitHub](https://github.com/speakleash/speakleash-examples)</sup> and scraping the internet, adding another GBs of data to the project.
 
 
 #### 👷 <em>Projects in development : </em>
 
-- [When I'm Gone (KiedyOdjade)](https://github.com/Samox1/WhenImGone-KiedyOdjade) - mini-project inspired by [jakdojade.pl](jakdojade.pl) ~ using the API with online location of Warsaw public transport vehicles, creating a database where certain values would be calculated (with ML prediction) and providing an API for a future mobile application (written in Flutter) and other developers.
+- [When I'm Gone (KiedyOdjade)](https://github.com/Samox1/WhenImGone-KiedyOdjade) - mini-project inspired by [jakdojade.pl](jakdojade.pl) ~ using the API with online location of Warsaw public transport vehicles, I'm working on a database where certain values would be calculated (with ML prediction) and provide an API for other developers and hopefully a future mobile application written in Flutter.
 
 - Learning more - Python / Data Science / ML / MLOps / deep learning libraries
 
-- [ESP32 Thermal Camera WebServer](https://github.com/Samox1/ESP_Thermal_Camera_WebServer) - hobby project (which needs to be improved) ~ ESP32 microcontroller + thermal imaging array sensor and we have a neat little thermal camera which has its own WiFi network and you can watch the image live on your phone
+- [ESP32 Thermal Camera WebServer](https://github.com/Samox1/ESP_Thermal_Camera_WebServer) - hobby project (which needs to be improved) ~ ESP32 microcontroller + thermal imaging array sensor create a neat little thermal camera which has its own WiFi network, allowing you to watch the image live on your phone.
 
 <br>
 
