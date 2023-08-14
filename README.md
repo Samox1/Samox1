@@ -215,8 +215,8 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 <br>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samox1&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub+Stats)
-![GitHub TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=samox1&show_icons=true&locale=en&layout=compact&theme=transparent&hide=HTML)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samox1&show_icons=true&locale=en&layout=compact&theme=transparent&hide=HTML&langs_count=8&card_width=320" /> &nbsp;
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samox1&show_icons=true&theme=transparent&rank_icon=github&custom_title=GitHub+Stats" />
 
 </div>
 
