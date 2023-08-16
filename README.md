@@ -23,13 +23,17 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 
 <center>
 <a href="https://www.linkedin.com/in/szymon-baczynski/" style="padding-right:10px"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="border-radius:4px"></a> 
+<a href="https://www.datacamp.com/portfolio/szymonbaczynski" style="padding-right:10px"><img alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" style="border-radius:4px"></a>
+<!--  
 <a href="https://www.datacamp.com/portfolio/szymonbaczynski" style="padding-right:10px"><img alt="DataCamp" src="https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white" style="border-radius:4px"></a>
+<a href="https://www.datacamp.com/portfolio/szymonbaczynski" style="padding-right:10px"><img alt="DataCamp" src="https://img.shields.io/badge/DataCamp-03E860.svg?style=for-the-badge&logo=DataCamp&logoColor=white" style="border-radius:4px"></a>
+-->
 <a href="https://www.cloudskillsboost.google/public_profiles/9f6bf6c2-9675-4eab-90de-90ebc4c74e7c" style="padding-right:10px"><img alt="Google Cloud Skills Boost" src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" style="border-radius:4px"></a>
 
 <a href="https://www.researchgate.net/profile/Szymon-Baczynski-2" style="padding-right:5px"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" style="border-radius:4px"></a>
 <a href="https://www.kaggle.com/simonbaczyski" style="padding-right:5px"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" style="border-radius:4px"></a>
 <a href="https://leetcode.com/SamoX/" style="padding-right:5px"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" style="border-radius:4px"></a>
-<a href="https://www.hackerrank.com/SamoX" style="padding-right:5px"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius:4px"></a>
+<a href="https://www.hackerrank.com/SamoX" style="padding-right:5px"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00df63.svg?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius:4px"></a>
 <a href="https://www.instagram.com/simon_traitor/" style="padding-right:5px"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius:4px"></a>
 </center>
 
@@ -236,7 +240,21 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 </details>
 
 </div>
+<br>
 
+___
+
+<h5>Repositories and Tools used to make this profile readme.md :
+
+<ul>
+
+<li>https://home.aveek.io/GitHub-Profile-Badges</li>
+<li>https://github.com/Ileriayo/markdown-badges</li>
+<li>https://github.com/anuraghazra/github-readme-stats</li>
+
+</ul>
+
+</h5>
 
 
 <!--
