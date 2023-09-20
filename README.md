@@ -244,16 +244,17 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 
 ___
 
-<h5><details><summary>Repositories and Tools used to make this profile readme.md</summary>
+<details>
+  <summary><h5>Repositories and Tools used to make this profile readme.md</h5></summary>
 <br>
 <ul>
-
+<h5>
+  
 <li>https://home.aveek.io/GitHub-Profile-Badges</li>
 <li>https://github.com/Ileriayo/markdown-badges</li>
 <li>https://github.com/anuraghazra/github-readme-stats</li>
 
 </ul>
-
 </h5>
 </details>
 
