@@ -169,6 +169,7 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat&logo=Pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=FastAPI&logoColor=white)
 
 ![MLFlow](https://img.shields.io/badge/MLflow-0194E2.svg?style=flat&logo=MLflow&logoColor=white)
 ![WeightsAndBiases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=flat&logo=weightsandbiases&logoColor=black)
@@ -201,12 +202,12 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 
 #### 🙋‍♂️ <em>Helping with : </em>
 
-- [SpeakLeash](https://speakleash.org/) - <em>Language Processing Granary [pl. Spichlerz] - datasets for Polish<sup>[GitHub](https://github.com/speakleash/speakleash)</sup></em> - I'm helping as much as I can, writing code in Python to scrape forums and articles<sup>[GitHub](https://github.com/speakleash/speakleash-forum-tools)</sup>, making examplary Python scripts using the Speakleash package<sup>[GitHub](https://github.com/speakleash/speakleash-examples)</sup> and scraping the internet, adding another GBs of data to the project.
+- [SpeakLeash](https://speakleash.org/) - <em>Language Processing Granary [pl. Spichlerz] - datasets for Polish<sup>[GitHub](https://github.com/speakleash/speakleash)</sup></em> - I'm helping as much as I can, writing code in Python to scrape forums and articles<sup><em>[GitHub](https://github.com/speakleash/speakleash-forum-tools)</em></sup>, creating new datasets [dashboard](https://speakleash.streamlit.app/)<sup><em>[GitHub](https://github.com/speakleash/speakleash-dashboard)</em></sup>, making examplary Python scripts using the Speakleash package<sup><em>[GitHub](https://github.com/speakleash/speakleash-examples)</em></sup> and scraping the internet, adding another GBs of data to the project.
 
 
 #### 👷 <em>Projects in development : </em>
 
-- [When I'm Gone (KiedyOdjade)](https://github.com/Samox1/WhenImGone-KiedyOdjade) - mini-project inspired by [jakdojade.pl](jakdojade.pl) ~ using the API with online location of Warsaw public transport vehicles, I'm working on a database where certain values would be calculated (with ML prediction) and provide an API for other developers and hopefully a future mobile application written in Flutter.
+- [When I'm Gone (KiedyOdjade)](https://github.com/Samox1/WhenImGone-KiedyOdjade) - mini-project inspired by <em>jakdojade.pl</em> ~ using the API with online location of Warsaw public transport vehicles, I'm working on a database where certain values would be calculated (with ML prediction) and provide an API for other developers and hopefully a future mobile application written in Flutter.
 
 - Learning more - Python / Data Science / ML / MLOps / deep learning libraries
 
