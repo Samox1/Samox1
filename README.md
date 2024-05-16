@@ -78,9 +78,9 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 <div>
 <br>
 
-![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -102,6 +102,7 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 <div>
 <br>
 
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <!--
