@@ -1,9 +1,12 @@
 # Hi 👋  I'm Szymon Baczyński <sup><font size='2'> 〔 SamoX 〕 </font></sup>
 **` Passionate about data and extracting information (also photonics engineer)`**
 <br>
+I'm a physicist by training, with a deep curiosity for data-driven insights. After over a decade immersed in photonics and optofluidics at the Warsaw University of Technology - where I graduated with an engineering degree, a master's degree and I'm really close to finishing my PhD - I've transitioned from academia into the dynamic world of data science and ML/AI.
 
-I am a Ph.D. student at the Physics Department of the Warsaw University of Technology. Since 2014, I have spent my days at university studying and researching in the area of photonics (optical fibers, liquid crystals, holography, lasers) and there were a lot of interesting topics and reports to do. During my studies, I became passionate with Data Science and Machine Learning. Thats why I always tried to choose additional classes, specifically in those areas. I've been learning about Data Science additionally using platforms such as DataCamp and Google Cloud Skills Boost, reading articles on Medium, Towards Data Science blogs, LinkedIn or doing my own mini-projects after hours. <br>
-I am looking for opportunities to grow in areas such as Business Intelligence, Data Science, Machine Learning, MLOps and Big Data.
+Since mid-2023, I've been actively contributing to the open-science project SpeakLeash, assisting in data curation and model development for Bielik—Poland’s open-source large language model family. This experience has provided me with hands-on exposure to the entire LLM pipeline, from dataset preparation to deploying instruction-tuned models like Bielik-11B-v2, optimized for Polish NLP tasks.
+Beyond research, I'm passionate about applying GenAI tools in both commercial and personal projects, exploring their capabilities and pushing their boundaries. I approach challenges systematically, always considering both the needs and limitations of a project.
+
+I'm eager to grow in areas such as Business Intelligence, Data Science, Machine Learning, MLOps, and Big Data. Let's connect and explore the possibilities together.
 
 <details>
 <summary>🎓 Articles I co-authored during my PhD research <sup>and other info</sup> </summary>
@@ -79,6 +82,7 @@ I am looking for opportunities to grow in areas such as Business Intelligence, D
 <br>
 
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+![ApacheSuperset](https://img.shields.io/badge/Apache_Superset-F2C811.svg?style=for-the-badge&color=20a7c9&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
