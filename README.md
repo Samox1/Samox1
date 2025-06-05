@@ -1,6 +1,7 @@
 # Hi 👋  I'm Szymon Baczyński <sup><font size='2'> 〔 SamoX 〕 </font></sup>
 **` Passionate about data and extracting information (also photonics engineer)`**
 <br>
+
 I'm a physicist by training, with a deep curiosity for data-driven insights. After over a decade immersed in photonics and optofluidics at the Warsaw University of Technology - where I graduated with an engineering degree, a master's degree and I'm really close to finishing my PhD - I've transitioned from academia into the dynamic world of data science and ML/AI.
 
 Since mid-2023, I've been actively contributing to the open-science project SpeakLeash, assisting in data curation and model development for Bielik—Poland’s open-source large language model family. This experience has provided me with hands-on exposure to the entire LLM pipeline, from dataset preparation to deploying instruction-tuned models like Bielik-11B-v2, optimized for Polish NLP tasks.
