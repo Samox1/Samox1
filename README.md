@@ -7,7 +7,7 @@ I'm a physicist by training, with a deep curiosity for data-driven insights. Aft
 Since mid-2023, I've been actively contributing to the open-science project SpeakLeash, assisting in data curation and model development for Bielik—Poland’s open-source large language model family. This experience has provided me with hands-on exposure to the entire LLM pipeline, from dataset preparation to deploying instruction-tuned models like Bielik-11B-v2, optimized for Polish NLP tasks.
 Beyond research, I'm passionate about applying GenAI tools in both commercial and personal projects, exploring their capabilities and pushing their boundaries. I approach challenges systematically, always considering both the needs and limitations of a project.
 
-I'm eager to grow in areas such as Business Intelligence, Data Science, Machine Learning, MLOps, and Big Data. Let's connect and explore the possibilities together.
+I want to grow in areas such as Data Science, Machine Learning, MLOps, Big Data and Business Intelligence.
 
 <details>
 <summary>🎓 Articles I co-authored during my PhD research <sup>and other info</sup> </summary>
