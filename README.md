@@ -20,7 +20,7 @@ I'm eager to grow in areas such as Business Intelligence, Data Science, Machine 
 
 <br>
 
-<sub> [![WUT Link](https://img.shields.io/badge/Winners_in_MedTech--Athon-gray?style=flat-square)](https://www.pw.edu.pl/Aktualnosci/Czy-doktoranci-PW-zrewolucjonizuja-medycyne)</sub> &#8592; Together with a team of Ph.D. students, we won the MedTech-Athon <sup>Warsaw University of Technology</sup>, receiving funding to develop a mobile air pollution monitoring device (May 2022). We built a prototype and showcased it a year later at DemoDay, collaborating along the way with other researchers, a pulmonology doctor and organizations like the Chief Environmental Protection Inspector in Warsaw.
+<sub> [![WUT Link](https://img.shields.io/badge/Winners_in_MedTech--Athon-gray?style=flat-square)](https://www.pw.edu.pl/Aktualnosci/Czy-doktoranci-PW-zrewolucjonizuja-medycyne)</sub> &#8592; Together with a team of Ph.D. students, [we won the MedTech-Athon](https://cezamat.pw.edu.pl/final-of-the-medtech-athon-competition/) <sup>Warsaw University of Technology</sup>, receiving funding to develop a mobile air pollution monitoring device (May 2022). We built a prototype and showcased it a year later at DemoDay, collaborating along the way with other researchers, a pulmonology doctor and organizations like the Chief Environmental Protection Inspector in Warsaw.
 
 </details>
 <br>
